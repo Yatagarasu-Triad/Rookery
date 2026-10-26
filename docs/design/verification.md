@@ -25,7 +25,7 @@ No CI workflow, product behavior test, independent backup/restore, worker isolat
 
 ## Initial Publication
 
-[PR #14](https://github.com/travishriley/Rookery/pull/14) links [issue #1](https://github.com/travishriley/Rookery/issues/1), from `design/1-phase-0` to `main`. Authenticated GitHub read-back confirmed OPEN, non-draft, unmerged, `auto_merge: null`, no review decision, and an empty check rollup. Its twenty changed filenames match the staged design package; temporary publication payloads remain ignored locally. The twelve implementation/deferred-risk issues and six phase milestones were created and linked in the backlog. No self-approval, merge, protection change, or Phase 1 implementation was performed.
+[PR #14](https://github.com/Yatagarasu-Triad/Rookery/pull/14) links [issue #1](https://github.com/Yatagarasu-Triad/Rookery/issues/1), from `design/1-phase-0` to `main`. Authenticated GitHub read-back confirmed OPEN, non-draft, unmerged, `auto_merge: null`, no review decision, and an empty check rollup. Its twenty changed filenames match the staged design package; temporary publication payloads remain ignored locally. The twelve implementation/deferred-risk issues and six phase milestones were created and linked in the backlog. No self-approval, merge, protection change, or Phase 1 implementation was performed.
 
 ## Review Follow-up
 
