@@ -9,9 +9,9 @@ Status: observed 2026-09-12; proposals explicitly identified. No printer endpoin
 | Workspace | Owner-supplied Rookery directory; initially exactly `ROOKERY_ASTRA_BUILD_PROMPT.md`, 30,182 bytes; no `.git` |
 | Prompt SHA-256 | `1a43def02cdd4ab169de593217dc7ca595950c18bd2991a6ddb5a4090763fa4e` |
 | Instructions | No `AGENTS.md` in workspace or checked ancestors through `C:\`; no existing code, tests, fixtures, CI, or dependency manifest |
-| GitHub identity | `travishriley/Rookery`, repository ID `1367605870`, public, default branch name `main`; API initially reported empty; no issues/PRs |
+| GitHub identity | `Yatagarasu-Triad/Rookery`, repository ID `1367605870`, public, default branch name `main`; API initially reported empty; no issues/PRs |
 | Bootstrap | Empty commit `2aa42eb` establishes `main` for a PR comparison; no design content pushed to `main` |
-| Tracking | [Design issue #1](https://github.com/travishriley/Rookery/issues/1), [milestone 1](https://github.com/travishriley/Rookery/milestone/1), `design/1-phase-0` |
+| Tracking | [Design issue #1](https://github.com/Yatagarasu-Triad/Rookery/issues/1), [milestone 1](https://github.com/Yatagarasu-Triad/Rookery/milestone/1), `design/1-phase-0` |
 | Environment | Windows 11 build 26200, AMD64; Python 3.13.7; Git 2.51.1.windows.1; Node 22.13.1 observed, not selected for the product |
 | Authorization | Connector metadata reports admin/push, but connector issue creation and protection read returned 403. Sandbox CLI authentication failed; host CLI authenticated through existing keyring and successfully created tracking records |
 | Rules | Rulesets API returned `[]`; authenticated host CLI protection read returned 404 `Branch not protected` after bootstrap. No rules were configured or weakened |

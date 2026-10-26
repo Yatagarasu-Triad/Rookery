@@ -6,7 +6,7 @@ Working name: Rookery. This is a placeholder, not a checked product name or trad
 
 ## Inputs supplied by the owner when development begins
 
-- GitHub repository: `https://github.com/travishriley/Rookery`
+- GitHub repository: `https://github.com/Yatagarasu-Triad/Rookery`
 - Local workspace: `C:\Users\Travis\Documents\Coding\Rookery`
 - Initial printer/slicer/platform information: discover from explicitly supplied fixtures and documentation; do not assume a particular printer, operating system, or installed OrcaSlicer build.
 
